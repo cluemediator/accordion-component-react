@@ -15,7 +15,7 @@ Follow the below steps to run the project.
 
 ## Connect with us
 
-Website: [Clue Mediator](https://www.cluemediator.com)
-Newsletter: [Subscribe](https://www.cluemediator.com/subscribe)
+Website: [Clue Mediator](https://www.cluemediator.com)  
+Newsletter: [Subscribe](https://www.cluemediator.com/subscribe)  
 Like us on [Facebook](https://www.facebook.com/thecluemediator)  
 Follow us on [Twitter](https://twitter.com/cluemediator)
